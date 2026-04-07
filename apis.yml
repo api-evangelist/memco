@@ -7,10 +7,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - AI
   - Agents
-  - Memory
+  - AI
   - Knowledge Management
+  - Memory
 url: >-
   https://raw.githubusercontent.com/api-evangelist/memco/refs/heads/main/apis.yml
 created: '2026-01-02'
@@ -25,8 +25,8 @@ apis:
       capabilities for AI-powered applications.
     humanURL: https://www.memco.ai/platforms
     tags:
-      - AI
       - Agents
+      - AI
       - Memory
     properties:
       - type: Documentation
