@@ -32,8 +32,12 @@ apis:
       - type: Documentation
         url: https://www.memco.ai/platforms
 common:
+  - type: DomainSecurity
+    url: security/memco-domain-security.yml
   - type: Website
     url: https://www.memco.ai/
+  - url: https://memco.ai/rss.xml
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
