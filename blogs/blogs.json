@@ -1,0 +1,14 @@
+{
+  "repo": "memco",
+  "feeds": [
+    {
+      "source": "https://memco.ai/rss.xml",
+      "feed_url": "https://memco.ai/rss.xml",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 42
+}
