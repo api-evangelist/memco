@@ -20,6 +20,11 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/memco.png
 tags:
   - Agents
+  - Artificial Intelligence
+  - Knowledge-Management
+  - Memory
+tags_raw:
+  - Agents
   - AI
   - Knowledge Management
   - Memory
@@ -37,6 +42,10 @@ apis:
       capabilities for AI-powered applications.
     humanURL: https://www.memco.ai/platforms
     tags:
+      - Agents
+      - Artificial Intelligence
+      - Memory
+    tags_raw:
       - Agents
       - AI
       - Memory
