@@ -32,13 +32,14 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/memco.png
 tags:
   - Agents
   - Artificial Intelligence
-  - Knowledge-Management
+  - Knowledge Management
   - Memory
 tags_raw:
   - Agents
   - AI
   - Knowledge Management
   - Memory
+  - Knowledge-Management
 url: >-
   https://raw.githubusercontent.com/api-evangelist/memco/refs/heads/main/apis.yml
 created: '2026-01-02'
